@@ -372,6 +372,7 @@ nav{
     }
 
     .nav-menu{
+        background-color: transparent;
         position: static;
         flex-direction: row;
         max-height: 80px;
